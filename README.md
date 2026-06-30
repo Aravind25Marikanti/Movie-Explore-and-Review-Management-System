@@ -37,10 +37,10 @@ Organize your local development setup to mirror the architectural design layout 
 movie_project/
 │
 ├── backend/
-│   └── main.py          # FastAPI Application & Endpoints
+│   └── main1.py         # FastAPI Application & Endpoints
 │
 ├── frontend/
-│   └── app.py           # Streamlit Web App Interface
+│   └── app1.py          # Streamlit Web App Interface
 │
 └── requirements.txt     # Python Dependencies
 ```
